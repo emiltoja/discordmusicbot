@@ -1,7 +1,7 @@
 {
   "bot": {
     "name": "Musico",
-    "token": "",
+    "token": "NTEwNzY4MzUxMzI5Mzg2NDk3.DsmO-g.PUBYk1eTXxoIcwT5_KZckXm6-Rg",
     "owners": [
       ""
     ],
@@ -10,7 +10,7 @@
     "game": "use .help command"
   },
   "youtube": {
-    "token": "",
+    "token": "NTEwNzY4MzUxMzI5Mzg2NDk3.DsmO-g.PUBYk1eTXxoIcwT5_KZckXm6-Rg",
     "base_url": "https://www.youtube.com"
   },
   "listen_moe": {
