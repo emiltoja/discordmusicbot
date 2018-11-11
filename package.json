@@ -9,8 +9,6 @@
     "prod": "node ./index.js",
     "debug": "node --inspect-brk=127.0.0.1:8080 ./index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
-  }
-  
   },
   "repository": {
     "type": "git",
