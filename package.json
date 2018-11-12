@@ -13,10 +13,6 @@
     "discord.js": "11.4.1",
     "request": "2.81.0"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/mindaugaskasp/discord-music-bot.git"
-  },
   "keywords": [
     "discord",
     "music",
